@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg-info/
+
+# Environments
+.venv/
+venv/
+.env
+.env.local
+.env.*
+
+# OS / Editor
+.DS_Store
+*.log
+
+# Build/Test
+.coverage
+.pytest_cache/
+htmlcov/
+
+# Streamlit
+.streamlit/
+
+# Archives
+*.zip

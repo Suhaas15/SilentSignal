@@ -1,0 +1,10 @@
+Person A: Hey, how was your day?
+Person B: It was good! I went to the gym and then had lunch with Sarah.
+Person A: That sounds nice! I'm glad you had a good time.
+Person B: Thanks! How was yours?
+Person A: Pretty busy at work, but I got a lot done. Want to grab dinner tonight?
+Person B: Sure! What time works for you?
+Person A: How about 7 PM at that Italian place you like?
+Person B: Perfect! See you then.
+
+

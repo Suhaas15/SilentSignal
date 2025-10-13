@@ -1,0 +1,83 @@
+# Example Conversations for SilentSignal Demo
+
+## SAFE CONVERSATION EXAMPLE
+Person A: Hey, how was your day?
+Person B: It was good! I went to the gym and then had lunch with Sarah.
+Person A: That sounds nice! I'm glad you had a good time.
+Person B: Thanks! How was yours?
+Person A: Pretty busy at work, but I got a lot done. Want to grab dinner tonight?
+Person B: Sure! What time works for you?
+Person A: How about 7 PM at that Italian place you like?
+Person B: Perfect! See you then.
+
+## CONCERNING CONVERSATION EXAMPLE
+Person A: Why didn't you answer my calls?
+Person B: I was in a meeting, I texted you that I'd call back later.
+Person A: You always have excuses. If you really cared about me, you'd make time.
+Person B: I do care about you, but I can't always answer immediately.
+Person A: You're being selfish. After everything I do for you, this is how you treat me?
+Person B: I'm not trying to be selfish, I just had work obligations.
+Person A: You're making me feel like I don't matter to you.
+
+## LIKELY ABUSE CONVERSATION EXAMPLE
+Person A: Where were you last night?
+Person B: I told you, I was at my sister's house.
+Person A: That's not what I heard. You're lying to me again.
+Person B: I'm not lying, I was there the whole time.
+Person A: You're always making things up. You're crazy, you know that?
+Person B: I'm not crazy, I'm telling you the truth.
+Person A: If you loved me, you wouldn't lie to me like this. You're making me question everything.
+Person B: I do love you, and I'm not lying.
+Person A: You're being dramatic. You always overreact to everything I say.
+Person B: I'm not overreacting, I'm just trying to explain.
+Person A: You're too sensitive. You need to grow up and stop being so childish.
+Person B: I'm not being childish, I'm just confused about why you don't believe me.
+Person A: You're pushing my buttons. You don't want to make me angry, do you?
+Person B: No, I don't want to make you angry.
+Person A: Good. Because if you keep this up, you'll be sorry. I'm warning you.
+
+## GASLIGHTING EXAMPLE
+Person A: You said you'd be home by 6 PM.
+Person B: I never said that, I said I'd try to be home by 7.
+Person A: No, you definitely said 6. You're remembering it wrong.
+Person B: I'm pretty sure I said 7.
+Person A: You're imagining things. That's not what happened at all.
+Person B: I remember clearly saying 7 PM.
+Person A: You're making that up. You always do this - you say one thing and then change your story.
+Person B: I'm not changing my story, I'm telling you what I remember.
+Person A: You're delusional. That never happened.
+
+## GUILT-TRIPPING EXAMPLE
+Person A: I can't believe you're going out with your friends again.
+Person B: It's been weeks since I've seen them.
+Person A: After all I've done for you, this is how you repay me?
+Person B: I'm not trying to hurt you, I just want to see my friends.
+Person A: You're so ungrateful. I do everything for you and you don't appreciate it.
+Person B: I do appreciate everything you do.
+Person A: If you really loved me, you'd stay home with me instead of abandoning me.
+Person B: I'm not abandoning you, I'll be back in a few hours.
+Person A: You're selfish. You only think about yourself.
+
+## CONTROL TACTICS EXAMPLE
+Person A: You can't wear that dress.
+Person B: Why not? I like this dress.
+Person A: It's too revealing. I forbid you to wear it.
+Person B: It's not that revealing, and it's my choice.
+Person A: You're not allowed to make choices like that. You have to listen to me.
+Person B: I can make my own decisions about what to wear.
+Person A: Don't you dare talk back to me. You better not wear that dress.
+Person B: I think I should be able to choose my own clothes.
+Person A: I won't let you go out looking like that. You must change.
+
+## THREAT EXAMPLE
+Person A: If you leave me, I'll kill myself.
+Person B: Please don't say that.
+Person A: You'll be sorry if you abandon me. I'll make you pay.
+Person B: I'm not trying to abandon you.
+Person A: You'll regret this. I'll ruin your life if you leave.
+Person B: That's not fair.
+Person A: You don't want to make me angry. You'll learn not to cross me.
+Person B: I'm scared when you talk like this.
+Person A: Good. You should be scared.
+
+

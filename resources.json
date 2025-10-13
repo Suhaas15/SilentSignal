@@ -1,0 +1,114 @@
+{
+  "hotlines": [
+    {
+      "name": "National Domestic Violence Hotline",
+      "phone": "1-800-799-7233",
+      "website": "https://www.thehotline.org/",
+      "description": "24/7 support for domestic violence survivors"
+    },
+    {
+      "name": "Crisis Text Line",
+      "phone": "Text HOME to 741741",
+      "website": "https://www.crisistextline.org/",
+      "description": "24/7 crisis support via text message"
+    },
+    {
+      "name": "National Suicide Prevention Lifeline",
+      "phone": "988",
+      "website": "https://suicidepreventionlifeline.org/",
+      "description": "24/7 suicide prevention and crisis support"
+    },
+    {
+      "name": "RAINN National Sexual Assault Hotline",
+      "phone": "1-800-656-4673",
+      "website": "https://www.rainn.org/",
+      "description": "24/7 support for sexual assault survivors"
+    },
+    {
+      "name": "Love is Respect",
+      "phone": "1-866-331-9474",
+      "website": "https://www.loveisrespect.org/",
+      "description": "Support for teens and young adults in abusive relationships"
+    }
+  ],
+  "websites": [
+    {
+      "name": "Love is Respect",
+      "url": "https://www.loveisrespect.org/",
+      "description": "Resources for healthy relationships and abuse prevention"
+    },
+    {
+      "name": "RAINN",
+      "url": "https://www.rainn.org/",
+      "description": "Rape, Abuse & Incest National Network"
+    },
+    {
+      "name": "National Domestic Violence Hotline",
+      "url": "https://www.thehotline.org/",
+      "description": "Comprehensive domestic violence resources"
+    },
+    {
+      "name": "Psychology Today Therapist Finder",
+      "url": "https://www.psychologytoday.com/us/therapists",
+      "description": "Find local therapists and counselors"
+    },
+    {
+      "name": "BetterHelp Online Therapy",
+      "url": "https://www.betterhelp.com/",
+      "description": "Online therapy and counseling services"
+    },
+    {
+      "name": "National Center for PTSD",
+      "url": "https://www.ptsd.va.gov/",
+      "description": "Resources for trauma and PTSD recovery"
+    }
+  ],
+  "mobile_apps": [
+    {
+      "name": "Aspire News",
+      "description": "Disguised as a news app, provides domestic violence resources",
+      "platform": "iOS/Android"
+    },
+    {
+      "name": "myPlan",
+      "description": "Safety planning app for intimate partner violence",
+      "platform": "iOS/Android"
+    },
+    {
+      "name": "Circle of 6",
+      "description": "Quick access to emergency contacts and resources",
+      "platform": "iOS/Android"
+    }
+  ],
+  "safety_planning": {
+    "title": "Safety Planning Resources",
+    "tips": [
+      "Keep important documents in a safe place",
+      "Have a code word with trusted friends/family",
+      "Know your local domestic violence shelter",
+      "Keep emergency contacts easily accessible",
+      "Consider changing passwords and online accounts",
+      "Document incidents with photos/texts if safe to do so"
+    ]
+  },
+  "legal_resources": [
+    {
+      "name": "Legal Aid Society",
+      "description": "Free legal assistance for low-income individuals",
+      "website": "https://www.legalaid.org/"
+    },
+    {
+      "name": "National Network to End Domestic Violence",
+      "description": "Legal resources and advocacy",
+      "website": "https://nnedv.org/"
+    }
+  ],
+  "emergency_protocols": {
+    "immediate_danger": "Call 911 or your local emergency number",
+    "safe_exit": "If you need to leave immediately, go to a safe place",
+    "trusted_contact": "Reach out to a trusted friend or family member",
+    "documentation": "If safe, document any threats or abuse"
+  }
+}
+
+

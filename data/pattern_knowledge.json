@@ -1,0 +1,145 @@
+{
+  "patterns": [
+    {
+      "name": "gaslighting",
+      "definition": "A form of psychological manipulation where a person seeks to sow seeds of doubt in a targeted individual or in members of a targeted group, making them question their own memory, perception, or judgment.",
+      "keywords": ["that never happened", "you're imagining", "you're making that up", "that's not what i said", "you're remembering it wrong", "you're crazy", "you're delusional", "that's all in your head"],
+      "severity": "high",
+      "examples": [
+        "That never happened",
+        "You're imagining things",
+        "You're making that up",
+        "That's not what I said"
+      ]
+    },
+    {
+      "name": "guilt_tripping",
+      "definition": "A form of emotional manipulation where someone tries to make another person feel guilty for their actions, decisions, or circumstances.",
+      "keywords": ["if you loved me", "after all i've done", "you're ungrateful", "i do everything for you", "you don't appreciate me", "i sacrifice so much", "you're selfish", "you don't care about me"],
+      "severity": "medium",
+      "examples": [
+        "If you loved me, you would...",
+        "After all I've done for you",
+        "You're so ungrateful"
+      ]
+    },
+    {
+      "name": "threats",
+      "definition": "Statements or actions that express an intention to inflict pain, injury, damage, or other hostile action on someone in retribution for something done or not done.",
+      "keywords": ["i'll leave you", "you'll be sorry", "i'll make you pay", "you'll regret this", "i'll hurt myself", "i'll kill myself", "you'll never find someone like me", "i'll ruin your life"],
+      "severity": "critical",
+      "examples": [
+        "I'll leave you if you don't...",
+        "You'll be sorry",
+        "I'll hurt myself"
+      ]
+    },
+    {
+      "name": "control_tactics",
+      "definition": "Behaviors used to control, manipulate, or dominate another person in a relationship.",
+      "keywords": ["you can't", "you're not allowed", "i forbid you", "you must", "you have to", "don't you dare", "you better not", "i won't let you"],
+      "severity": "high",
+      "examples": [
+        "You can't wear that",
+        "I forbid you to go",
+        "You must do as I say"
+      ]
+    },
+    {
+      "name": "emotional_manipulation",
+      "definition": "The use of emotions to influence or control another person's behavior or decisions.",
+      "keywords": ["you're too sensitive", "you're overreacting", "you're being dramatic", "you're making a big deal", "you're being ridiculous", "you're being childish", "grow up", "get over it"],
+      "severity": "medium",
+      "examples": [
+        "You're too sensitive",
+        "You're overreacting",
+        "You're being dramatic"
+      ]
+    },
+    {
+      "name": "isolation_attempts",
+      "definition": "Efforts to cut someone off from their support system, friends, family, or other sources of help and validation.",
+      "keywords": ["your friends don't like me", "your family is toxic", "they're trying to break us up", "don't listen to them", "they don't understand us", "they're jealous", "they're bad influences"],
+      "severity": "high",
+      "examples": [
+        "Your friends don't like me",
+        "Your family is toxic",
+        "They're trying to break us up"
+      ]
+    },
+    {
+      "name": "blame_shifting",
+      "definition": "Making someone else responsible for your actions, emotions, or problems.",
+      "keywords": ["you made me do this", "it's your fault", "you caused this", "you started it", "you provoked me", "you pushed me to this", "you're the problem"],
+      "severity": "high",
+      "examples": [
+        "You made me do this",
+        "It's your fault",
+        "You caused this"
+      ]
+    },
+    {
+      "name": "minimization",
+      "definition": "Downplaying or trivializing someone's concerns, feelings, or experiences.",
+      "keywords": ["it's not that bad", "you're exaggerating", "it's not a big deal", "you're being dramatic", "other people have it worse", "you're lucky", "it could be worse"],
+      "severity": "medium",
+      "examples": [
+        "It's not that bad",
+        "You're exaggerating",
+        "It's not a big deal"
+      ]
+    },
+    {
+      "name": "love_bombing",
+      "definition": "Excessive affection, attention, or flattery used as a manipulation tactic, often followed by withdrawal.",
+      "keywords": ["i love you more than anything", "you're my everything", "i can't live without you", "you're perfect", "i've never felt this way", "you're my soulmate"],
+      "severity": "medium",
+      "examples": [
+        "I love you more than anything",
+        "You're my everything",
+        "I can't live without you"
+      ]
+    },
+    {
+      "name": "intimidation",
+      "definition": "Using fear or intimidation to control or influence someone's behavior.",
+      "keywords": ["you don't want to make me angry", "you're pushing my buttons", "i'm warning you", "you're testing my patience", "don't make me", "you're asking for trouble"],
+      "severity": "high",
+      "examples": [
+        "You don't want to make me angry",
+        "You're pushing my buttons",
+        "I'm warning you"
+      ]
+    },
+    {
+      "name": "financial_control",
+      "definition": "Using money or financial resources to control or manipulate someone's behavior and decisions.",
+      "keywords": ["you can't afford it", "we don't have money for that", "you're wasting money", "you're being irresponsible", "i control the money", "you don't need that"],
+      "severity": "high",
+      "examples": [
+        "You can't afford it",
+        "We don't have money for that",
+        "You're wasting money"
+      ]
+    },
+    {
+      "name": "sexual_coercion",
+      "definition": "Using manipulation, pressure, or threats to coerce someone into sexual activity.",
+      "keywords": ["if you loved me you would", "you owe me", "you're being selfish", "you're not attracted to me", "you're rejecting me", "you're hurting me"],
+      "severity": "critical",
+      "examples": [
+        "If you loved me you would",
+        "You owe me",
+        "You're being selfish"
+      ]
+    }
+  ],
+  "metadata": {
+    "version": "1.0.0",
+    "last_updated": "2024-01-01",
+    "total_patterns": 12,
+    "description": "Knowledge base of emotional abuse patterns for RAG retrieval"
+  }
+}
+
+
