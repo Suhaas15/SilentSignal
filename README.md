@@ -47,9 +47,8 @@ make test
 
 ## 📱 Live Demo
 
-**Streamlit UI**: http://localhost:8501
-**WhatsApp API**: http://localhost:8000
-**Health Check**: http://localhost:8000/health
+**Streamlit UI**: Coming Soon!
+**WhatsApp API**: Coming Soon!
 
 ## 🛡️ Privacy & Safety
 
