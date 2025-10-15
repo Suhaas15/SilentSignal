@@ -47,8 +47,7 @@ make test
 
 ## 📱 Live Demo
 
-**Streamlit UI**: Coming Soon!
-**WhatsApp API**: Coming Soon!
+**Streamlit UI**: https://silent-signal-frontend.onrender.com/
 
 ## 🛡️ Privacy & Safety
 
